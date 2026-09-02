@@ -1,2 +1,7 @@
-# Python-Projects
-A collection of Python projects created while learning Python
+# Python Projects
+
+A collection of Python programs I created while learning and practising Python.
+
+## Projects
+
+- [Password Generator](./password-generator/)
