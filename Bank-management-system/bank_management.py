@@ -8,7 +8,7 @@ from tabulate import tabulate
 # Connect Python to the bank_system database.
 def connect_db():
     mysql_password = input("Enter your MySQL password: ")
-
+    print("Kurma Hi...........")
     return mysql.connector.connect(
         host="localhost",
         user="root",
